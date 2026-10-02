@@ -1,6 +1,6 @@
 /*
     File:        EC_IT143_W5.2_MyFC_eom.sql
-    Author:      Ebenezer Owusu Mnu
+    Author:      Ebenezer Owusu Manu
     Course:      EC IT 143
     Assignment:  5.2 Final Project: My Communities Analysis - Create Answers
     Community:   Soccer Players (MyFC)
