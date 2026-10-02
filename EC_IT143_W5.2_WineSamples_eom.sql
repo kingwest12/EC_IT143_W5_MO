@@ -1,6 +1,6 @@
 /*
     File:        EC_IT143_W5.2_WineSamples_eom.sql
-    Author:      Ebenezer Owusu Mnu
+    Author:      Ebenezer Owusu Manu
     Course:      EC IT 143
     Assignment:  5.2 Final Project: My Communities Analysis - Create Answers
     Community:   Wine Samples (UCI Wine Quality)
@@ -26,7 +26,7 @@ GO
     How do average quality scores and sample counts compare between red and
     white wines?
 
-    Original question author: Ebenezer Owusu Mnu
+    Original question author: Ebenezer Owusu Manu
     Stakeholder perspective: Wine quality coordinator
 
     Answer:
@@ -51,7 +51,7 @@ GO
     Within each wine type, are higher alcohol measurements associated with
     higher average quality ratings?
 
-    Original question author: Ebenezer Owusu Mnu
+    Original question author: Ebenezer Owusu Manu
     Stakeholder perspective: Wine research analyst
 
     Answer:
