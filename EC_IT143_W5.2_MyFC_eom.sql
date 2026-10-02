@@ -25,7 +25,7 @@ GO
     Which players have the highest month-to-date salary, and on which record
     dates were those amounts reported?
 
-    Original question author: Ebenezer Owusu Mnu
+    Original question author: Ebenezer Owusu Manu
     Stakeholder perspective: MyFC payroll analyst
 
     Answer:
@@ -66,7 +66,7 @@ GO
     Question 2:
     How many players are listed for each team on each reporting date?
 
-    Original question author: Ebenezer Owusu Mnu
+    Original question author: Ebenezer Owusu Manu
     Stakeholder perspective: MyFC team manager
 
     Answer:
@@ -92,7 +92,7 @@ GO
     Which player records have no matching salary fact, and what team and
     position are they associated with?
 
-    Original question author: Ebenezer Owusu Mnu
+    Original question author: Ebenezer Owusu Manu
     Stakeholder perspective: MyFC roster administrator
 
     Answer:
@@ -119,7 +119,7 @@ GO
     Question 4:
     What is the total month-to-date salary for each team on each as_of_date?
 
-    Original question author: Ebenezer Owusu Mnu
+    Original question author: Ebenezer Owusu Manu
     Stakeholder perspective: MyFC budget analyst
 
     Answer:
